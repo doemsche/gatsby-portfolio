@@ -1,10 +1,10 @@
 ---
-title: 'Encoding Space'
+title: 'Roche Visitor Center'
 date: '2018-08-10'
-subtitle: 'A digital, artistic abstraction of space!'
+subtitle: 'Visitor Center Roche Bau 1, Basel'
 author: 'Dominik Schlaepfer'
 coffee: '80 cups'
-thumbnail: 'encoding-space/thumb.png'
+thumbnail: 'interaction-dyamics/thumb.png'
 ---
 
 Pandas are really sweet.

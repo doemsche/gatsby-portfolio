@@ -12,6 +12,6 @@ moragaTheme.bodyFontFamily = ['Museo-Normal'];
 //   }
 // });
 
-const typography = new Typography(moragaTheme);
+// cosnst typography = new Typography(moragaTheme);
 
 export default typography;
